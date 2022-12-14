@@ -9,4 +9,4 @@ time.sleep(4)
 for i in range(int(limit)):
     pt.typewrite(msg+" "+str(c))
     pt.press('Enter')
-    c+=1
+    c+=241223
